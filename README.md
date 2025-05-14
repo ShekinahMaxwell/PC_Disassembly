@@ -51,6 +51,46 @@ Remove the case screws (here are three) and set them aside. Tape is a great way 
 <!--img width="1440" alt="01" src="https://github.com/user-attachments/assets/1dda7f43-7340-4282-9636-fd974ebf1a88"-->
 </p>
 <p>
-....
+Locate the SSD/Hard drive and pull to disconnect the SATA power supply from it. Then pull to disconnect the SATA data connector.
+</p>
+<br />
+
+<p>
+<!--img width="1440" alt="01" src="https://github.com/user-attachments/assets/1dda7f43-7340-4282-9636-fd974ebf1a88"-->
+</p>
+<p>
+  ......
+</p>
+<br />
+
+<p>
+<!--img width="1440" alt="01" src="https://github.com/user-attachments/assets/1dda7f43-7340-4282-9636-fd974ebf1a88"-->
+</p>
+<p>
+  ......
+</p>
+<br />
+
+<p>
+<!--img width="1440" alt="01" src="https://github.com/user-attachments/assets/1dda7f43-7340-4282-9636-fd974ebf1a88"-->
+</p>
+<p>
+  ......
+</p>
+<br />
+
+<p>
+<!--img width="1440" alt="01" src="https://github.com/user-attachments/assets/1dda7f43-7340-4282-9636-fd974ebf1a88"-->
+</p>
+<p>
+  ......
+</p>
+<br />
+
+<p>
+<!--img width="1440" alt="01" src="https://github.com/user-attachments/assets/1dda7f43-7340-4282-9636-fd974ebf1a88"-->
+</p>
+<p>
+  ......
 </p>
 <br />
