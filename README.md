@@ -30,11 +30,14 @@ This tutorial outlines the disassembly of a Shuttle XPC tower. Why? To gain a be
 
 <h2>Disassembly Steps</h2>
 
-- Step 1:
-- Step 2:
-- Step 3:
-- Step 4: 
-- Step 5: 
+- Step 1: Remove the case screws
+- Step 2: Remove the SATA power and data cables
+- Step 3: Remove the hard drive
+- Step 4: Remove the optical drive
+- Step 5: Remove the adapter card
+- Step 6: Remove the Power supply
+- Step 7: Remove the front panel connectors
+- Step 8: Remove the RAM
 
 <p>
 <!--img width="1303" alt="01" src="https://github.com/user-attachments/assets/3561ff38-ed3f-4417-86c6-b9846e3b7321"-->
