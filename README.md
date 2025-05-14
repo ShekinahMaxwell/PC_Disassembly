@@ -75,7 +75,7 @@ Disconnect the power supply cable from the motherboard (typically it's the large
 <!--img width="1440" alt="01" src="https://github.com/user-attachments/assets/1dda7f43-7340-4282-9636-fd974ebf1a88"-->
 </p>
 <p>
-Remove any Adapter cards. Use any provided tabs to help remove the cards without damaging them. We are now ready to remove the power supply. Remove any screws holding the power supply into the case. This PC requires me to then slide the power supply off a tab.
+Remove any Adapter cards (This PC doesn't seem to have any). We are now ready to remove the power supply. Remove any screws holding the power supply into the case. This PC requires me to then slide the power supply off a tab.
 </p>
 <br />
 
@@ -83,7 +83,7 @@ Remove any Adapter cards. Use any provided tabs to help remove the cards without
 <!--img width="1440" alt="01" src="https://github.com/user-attachments/assets/1dda7f43-7340-4282-9636-fd974ebf1a88"-->
 </p>
 <p>
-  ......
+  Remove the front panel connectors for audio, visual, etc.
 </p>
 <br />
 
@@ -91,6 +91,6 @@ Remove any Adapter cards. Use any provided tabs to help remove the cards without
 <!--img width="1440" alt="01" src="https://github.com/user-attachments/assets/1dda7f43-7340-4282-9636-fd974ebf1a88"-->
 </p>
 <p>
-  ......
+  Remove RAM (typically two cards held in place by tabs). Use any provided tabs to help remove the cards without damaging them. 
 </p>
 <br />
