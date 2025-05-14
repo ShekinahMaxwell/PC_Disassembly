@@ -67,7 +67,7 @@ Locate the SSD/Hard drive and pull to disconnect the SATA power supply from it. 
 <!--img width="1440" alt="01" src="https://github.com/user-attachments/assets/1dda7f43-7340-4282-9636-fd974ebf1a88"-->
 </p>
 <p>
-  Disconnect the power supply cable from the motherboard (usually it's the large 24 pin cable). Remove the Power supply.
+  Disconnect the power supply cable from the motherboard (typically it's the large 24 pin cable). If applicable -- remove the extra 4 pin ATX power connector from the motherboard (typically it runs from the power supply to give more power to the board. Then Remove the power supply.
 </p>
 <br />
 
