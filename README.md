@@ -13,7 +13,7 @@ This tutorial outlines the disassembly of a Shuttle XPC tower. Why? To gain a be
 <h2>Environments and Technologies Used</h2>
 
 - Shuttle XPC
-- Screw Driver
+- Phillips head Screwdriver
 - Tape to hold loose screws
 
 <h2>Operating Systems Used </h2>
